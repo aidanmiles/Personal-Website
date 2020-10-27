@@ -113,6 +113,9 @@ a:hover,
   text-align: center;
   padding: 100px;
 }
+#projects{
+  padding-bottom:25px;
+}
 .jumbotron {
   background: none !important;
   max-width: 900px;
@@ -141,8 +144,8 @@ a:hover,
 }
 #about {
   text-align: center;
-  padding-top: 100px;
-  border: 1px solid;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .info {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
