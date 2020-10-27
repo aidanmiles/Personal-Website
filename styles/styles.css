@@ -79,13 +79,13 @@ a:hover,
   transform: rotate(45deg) translate(-8px, -8px);
 }
 
-.dp {
+.hs {
   position: absolute;
   border: 1px solid;
   max-width: 500px;
   top: 100px;
 }
-.deadpool img {
+.headshot img {
   display: block;
   margin: auto;
   border-radius: 50%;
