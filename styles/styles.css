@@ -121,7 +121,7 @@ a:hover,
 #portfolio {
   background-color: white;
   text-align: center;
-  padding: 100px;
+  padding-top: 200px;
 }
 #projects{
   padding-bottom:25px;
@@ -154,7 +154,7 @@ a:hover,
 }
 #about {
   text-align: center;
-  padding-top: 50px;
+  padding: 100px;
   padding-bottom: 50px;
 }
 .info {
@@ -162,7 +162,7 @@ a:hover,
 }
 #skills {
   text-align: center;
-  padding: 50px;
+  padding: 100px;
 }
 .lang{
   display: inline-block;
@@ -172,7 +172,7 @@ a:hover,
 
 #contact {
   text-align: center;
-  padding: 50px;
+  padding: 100px;
   max-width: 700px;
   margin: 0 auto;
 }
